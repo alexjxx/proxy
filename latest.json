@@ -1,23 +1,23 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "notes": "See the assets below to download and install this version.",
-  "pub_date": "2025-08-06T17:27:14.892Z",
+  "pub_date": "2025-08-06T18:15:47.782Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWHZsRUM0YktkK3JCTkdSUFc3RDU4YktTQnZnMjFsazdTcGxmSVhKWnpQd1NFSVREdXdka3FGbTdPcDl5K2ViMjdRN3B1Y3F3dlN3cmNTemgxUmZOVlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTAwNTg2CWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yLmFwcC50YXIuZ3oKZkxxZU8zRElYNzVyN0tYYThmeXFlRy9sSDM0NzlNckcxNnRMYkJ6NzBZc05XL01HN3dRT2p5T3lwcWZJay9IejlCSTdJY0pTejk0eit5Q0VZUmQrQUE9PQo=",
-      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.5/Rechnungsgenerator_x64.app.tar.gz"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWHVSdENTYWNaSjZWaWR0K1FuQUR6Y2hvZ21LMG5qSzZtYUZSWCtUK0FadG9VcTBzWmJNdXFYd3dzZUEvWkh2d05YTlFqNTIxbmYvVDFxcnpkamxocWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTAwNjEwCWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yLmFwcC50YXIuZ3oKRzZiZlREbmRjdjI0SGtjclNicHByL3pzeTFqVkMzaVMxZUJkK2JlTTlmY2hTZGRDbmRhTmNNaHRRTlN6ckpHOXY2QnYvcU1IZTJGS0ppTnFYZkkvQVE9PQo=",
-      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.5/Rechnungsgenerator_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWHJKd3BWTEhPZWVJbHc2K1BLN1FGWnFWc3lKeVZpaGJUNThBK3VOREhlbVYxNlRGbkFPZmtuVzZic2lDbk9IWjNYQmVsTWd3eVJjMkw5aE1MUitzUmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTAzNjI2CWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yLmFwcC50YXIuZ3oKVHpOWjJEUnprcStMVUxGVUdPTnNpd2FEV3hDUEdjUjFlUnQyWnp5VWZRZTQ5MXB3VXBSVnp4ZkRLY01LS1FtN1cxS2JndU96dENUTnBNelhPcU9rRGc9PQo=",
+      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.6/Rechnungsgenerator_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWG9LNVhXSjJUaDRtalczNm5SbEpKcjcrRldIUS9kc1UzN3Fvd3p3V2ZwR3ZYQjJWZHJGV1hrU21qb2toaG40bXpGNXZYYmF4b0dUSGRSTEx0azE4WlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTAzNjYzCWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yLmFwcC50YXIuZ3oKeGhBeEhOZFUwWnhZNUVFTmRlemdyd1FFUThlWHh3WVQ5SnIzS3BBL2I5TmNjb1lud2h0c2xPblVCdHNVK0grYXM4a2wrWDA3Vytwc1daZ1BWbW9mQ2c9PQo=",
+      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.6/Rechnungsgenerator_x64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWHNnSXBQYk95MmNkbkxJUmZtM3M5c2E2WS95WmZ6Nlg1YkQ5VzZGdDcrR0hFTnVnNEUwcHNnOWY1bVhCZnkrQ2NWY3BTdUpwK0NpYWR3SDJvNjFMNmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTAxMDIwCWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yXzAuMS41X2FtZDY0LkFwcEltYWdlCmJ4SVFQOXFZVlZlVkNHKzdyQmN3aHlOd0t3TERVYVhyUklVenVqaXYxdk0yWjdHeENNb2RBWVdlMEJFK0s2b2NTbFBLaUZCL1l6VTNIbmw5ZzZvQUJnPT0K",
-      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.5/Rechnungsgenerator_0.1.5_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWGlBc1hCSmVpWkdFKzFSV2VvenZ5ZDIxbHVWNWgrKzl5TDZIcFYvMklhVWlxL1JLdFlIUkI4UWhFd1lDYnAyYktrK1ZkR1QvTGdKUk02NERWckVsL0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTA0MDM3CWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yXzAuMS42X2FtZDY0LkFwcEltYWdlCkdaYkhmdEUvU0lSMFM1MXZrNEp5eUNIYnR4djZtSzR3TW5IRlNycXREaVRzeTNOZkZTaGVMdHIrWHFZQWVBdUVVRjI3eWE0c1dzUzB5SmIyRG8rMkJnPT0K",
+      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.6/Rechnungsgenerator_0.1.6_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWHVkVDUwTEE0MW0vL2hVbklMZDA5RURIcmcxWlVqMjJ4VjNtTDdWRU5Bd09tZHBjWHh1TUVtTUJ3ZnQ4M2RYRkUvWmt6bDVqL0lJclI4TzVCMWxIUXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTAxMjMyCWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yXzAuMS41X3g2NC1zZXR1cC5leGUKZjRZZEpPMStpQnRCU1orOE5JRFRWTXNwdE5GL21JTGE1OWllQkZ1dmZGRDA4ZHlWb1ozQjdaL0M4ZE1jdFJaTjlmUUcyMWIyblpuTEtNVGZSOFl1QUE9PQo=",
-      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.5/Rechnungsgenerator_0.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRd2ltV0pQMlRPWHVXbW9oVExkUXVWMTVZQW9NbWdFanlSaVcwUlIyTnJUeE5peVVKK0QxcHhLWFQ2elNmYU5mVE9sWCtSQzVFdjA3SW1lR21FQ0h5aXRQcUpmNmFyN1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU0NTA0MTQ0CWZpbGU6UmVjaG51bmdzZ2VuZXJhdG9yXzAuMS42X3g2NC1zZXR1cC5leGUKemRPVzQrRWM0bUU4d2Y5dUZ0OVM3czdyZmY4NWVJZ01ha2puY1FBciswNW5mSFEvZXNHUU9KYUwrQm1ubEM0bnlSdFdySi9OMHUweDZaYnVaZ1RMQWc9PQo=",
+      "url": "https://github.com/alexjxx/ts-app/releases/download/v0.1.6/Rechnungsgenerator_0.1.6_x64-setup.exe"
     }
   }
 }
