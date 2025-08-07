@@ -2,7 +2,7 @@ name: Release
 
 on:
   repository_dispatch:
-    types: [build-release]
+    types: [release]
   workflow_dispatch: # Allow manual trigger
     inputs:
       tag_name:
